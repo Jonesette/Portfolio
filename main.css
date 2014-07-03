@@ -6,7 +6,6 @@ body {
 	-o-background-size:cover;
 	font-family: sans-serif;
 	font-size: 15px;
-	color: #00000;
 }
 
 .container {
@@ -18,7 +17,6 @@ body {
 }
 
 h1 {
-	font-weight: 800px;
 	font-size: 32px;
 	margin-bottom: 8px;
 }
